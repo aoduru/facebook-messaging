@@ -1,0 +1,22 @@
+{
+  "name": "messager",
+  "version": "1.0.0",
+  "description": "\"webhook for messenger project for Facebook Messaging hackathon\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoduru/facebook-messaging.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Uju Duru, Yesenia Salazar, Chioma Nwosu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aoduru/facebook-messaging/issues"
+  },
+  "homepage": "https://github.com/aoduru/facebook-messaging#readme"
+}
